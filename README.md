@@ -64,6 +64,21 @@
 
 ## 🚀 Проекты
 
+### 💰 Приложение для управления финансами
+
+SPA для учёта личных финансов: авторизация, счета, транзакции и работа с API на JavaScript.
+
+[▶️ Открыть демо](https://financial-management-app-d3nz.onrender.com) · [💻 Код](https://github.com/potykalov/financial-management-app)
+
+> Демо размещено на Render. Первый запуск может занять около минуты, если сервер был в спящем режиме.
+
+
+ `2026` · `Учебный проект` · `завершён`
+
+**Стек:** `JavaScript` `HTML` `CSS` `DOM API` `XMLHttpRequest` `REST API`, `OOP,`
+
+---
+
 ### 🪙 Неткоин — сайт-биржа для крипто-стартапа
 
 Сайт-биржа «Неткоин» - веб-приложение для управления внутренней валютой крипто-стартапа. Пользователь может зарегистрироваться, войти в личный кабинет, посмотреть баланс, пополнить счёт, конвертировать валюту, перевести средства другому пользователю и управлять списком избранных получателей.
@@ -136,6 +151,7 @@
 
 ## 🏆 Сертификаты Нетологии
 
+- 📅 06.2026 - 07.2026 [Основы JavaScript в браузере](./images/javascript-basics-in-the-browser.pdf) `JavaScript`, `DOM API`, `Events`, `HTML Forms`, `XMLHttpRequest`, `LocalStorage`, `JSON`, `CORS`
 - 📅 04.2026 - 05.2026 [Основы JavaScript](./images/javascript-basics-certificate.pdf) `JavaScript`
 - 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) `Git` `GitHub`
 - 📅 02.2026 - 03.2026 [Основы программирования](./images/programming-basics.pdf) `JavaScript`
