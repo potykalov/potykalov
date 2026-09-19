@@ -64,6 +64,18 @@
 
 ## 🚀 Проекты
 
+### 🎮 Retro Game — пошаговая игра
+
+Пошаговая браузерная игра на поле 8×8: сражения с компьютером, развитие персонажей, бесконечные уровни и сохранение прогресса в localStorage.
+
+[▶️ Открыть демо](https://potykalov.github.io/retro-game/) · [💻 Код](https://github.com/potykalov/retro-game)
+
+`2026` · `учебный дипломный проект`
+
+**Стек:** `JavaScript` `DOM API` `localStorage` `Webpack` `Jest`
+
+---
+
 ### 💰 Приложение для управления финансами
 
 SPA для учёта личных финансов: авторизация, счета, транзакции и работа с API на JavaScript.
@@ -127,18 +139,6 @@ SPA для учёта личных финансов: авторизация, с�
 
 **Стек:** `HTML` `CSS` `Flexbox` `Media Queries` `Git`
 
----
-
-### 📰 HTML-вёрстка сайта
-
-Вёрстка сайта-блога по готовому макету. Проект включает главную страницу с постами, боковую панель, блоки с трендовыми материалами, формы поиска и подписки.
-
-[▶️ Открыть демо](https://potykalov.github.io/html-2-diploma/) · [💻 Код](https://github.com/Potykalov/html-2-diploma)
-
-`2026` · `учебный дипломный проект` · `завершён`
-
-**Стек:** `HTML` `CSS` `Flexbox` `Media Queries` `Git`
-
 <br>
 
 ## 🧠 Обучение
@@ -182,18 +182,3 @@ SPA для учёта личных финансов: авторизация, с�
 ## 📊 Моя статистика GitHub
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**Potykalov/Potykalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
