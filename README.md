@@ -151,6 +151,7 @@ SPA для учёта личных финансов: авторизация, с�
 
 ## 🏆 Сертификаты Нетологии
 
+- 📅 07.2026 - 09.2026 [Продвинутый JavaScript: современные возможности языка](./images/advanced-javascript-modern-language-features.pdf) 
 - 📅 06.2026 - 07.2026 [Основы JavaScript в браузере](./images/javascript-basics-in-the-browser.pdf) `JavaScript`, `DOM API`, `Events`, `HTML Forms`, `XMLHttpRequest`, `LocalStorage`, `JSON`, `CORS`
 - 📅 04.2026 - 05.2026 [Основы JavaScript](./images/javascript-basics-certificate.pdf) `JavaScript`
 - 📅 03.2026 - 04.2026 [Git — система контроля версий](./images/git-version-control.pdf) `Git` `GitHub`
