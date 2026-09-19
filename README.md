@@ -182,4 +182,4 @@ SPA для учёта личных финансов: авторизация, с�
 
 ## 📊 Моя статистика GitHub
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=potykalov&layout=compact&langs_count=6&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=potykalov&langs_count=3&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=potykalov&langs_count=3&theme=dracula)
