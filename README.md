@@ -7,6 +7,8 @@
   <a href="https://www.linkedin.com/in/potykalov"><img src="https://img.shields.io/badge/LinkedIn-профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
+<br>
+
 Начинающий frontend-разработчик. Создаю учебные веб-приложения, браузерные игры и адаптивные страницы на HTML, CSS и JavaScript. Продолжаю обучение в Нетологии.
 
 Ищу первую оплачиваемую работу во frontend-разработке или HTML/CSS-вёрстке. Рассматриваю junior-позиции, оплачиваемые стажировки и проектную работу: офис, удалённо или гибрид. Готов к релокации по России и за рубеж.
