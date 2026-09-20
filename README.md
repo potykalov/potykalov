@@ -1,15 +1,11 @@
+<h1 align="center">Дмитрий Потыкалов</h1>
+<h3 align="center">Junior Frontend-разработчик | HTML, CSS, JavaScript</h3>
+
 <div align="center">
   <a href="mailto:dmitriy.potykalov@gmail.com"><img src="https://img.shields.io/badge/Gmail-написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://t.me/dmitriy_potykalov"><img src="https://img.shields.io/badge/Telegram-написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://www.linkedin.com/in/potykalov"><img src="https://img.shields.io/badge/LinkedIn-профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
-
-<br>
-
-<h1 align="center">Дмитрий Потыкалов</h1>
-<h3 align="center">Junior Frontend-разработчик | HTML, CSS, JavaScript</h3>
-
-<br>
 
 Начинающий frontend-разработчик. Создаю учебные веб-приложения, браузерные игры и адаптивные страницы на HTML, CSS и JavaScript. Продолжаю обучение в Нетологии.
 
@@ -45,11 +41,14 @@
 
 ## ⚒️ Технологии и инструменты
 
-### Основной стек
+### Языки и разметка
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+Основной язык — JavaScript. TypeScript — начальный уровень: базовая типизация, интерфейсы и классы.
 
 ### Вёрстка и стилизация
 
@@ -57,6 +56,9 @@
 ![Grid Layout](https://img.shields.io/badge/Grid_Layout-1572B6?style=for-the-badge)
 ![Media Queries](https://img.shields.io/badge/Media_Queries-1572B6?style=for-the-badge)
 ![БЭМ](https://img.shields.io/badge/БЭМ-000000?style=for-the-badge)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+Sass — знаком с синтаксисом.
 
 ### Сборка и качество кода
 
@@ -67,22 +69,17 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Работа с макетами
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-163B63?style=for-the-badge)
-
-### Начальный уровень и знакомство
-
-- **TypeScript:** базовая типизация, интерфейсы и классы.
-- **Sass:** знаком с синтаксисом.
-
 ### Инструменты разработки
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+### Работа с макетами
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-163B63?style=for-the-badge)
 
 <br>
 
@@ -225,6 +222,6 @@ SPA для учёта личных финансов. На основе пред�
 ## 📇 Контакты
 
 - 📧 **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
-- 📄 **Резюме:** [HH.ru](https://spb.hh.ru/resume/225f2026ff0b6b88d70039ed1f505267613164)
+- 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1ak6nmqtLSFGO8AzNQQdPnP2R-5dQ_1Wr&usp=drive_fs)
 - ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
 - 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
