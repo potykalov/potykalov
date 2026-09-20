@@ -97,7 +97,7 @@ Sass — знаком с синтаксисом.
 
 [▶️ Открыть демо](https://potykalov.github.io/retro-game/) · [💻 Код](https://github.com/potykalov/retro-game)
 
-`2026` · `учебный дипломный проект`
+`2026` · `учебный проект`
 
 **Стек:** `JavaScript` `ES Modules` `ООП` `DOM API` `localStorage` `webpack` `Babel` `Jest` `GitHub Actions`
 
