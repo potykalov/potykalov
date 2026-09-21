@@ -179,7 +179,7 @@ SPA для учёта личных финансов. На основе пред�
 
 ## 🏆 Сертификаты Нетологии
 
-- 📅 07.2026 — 09.2026 [Продвинутый JavaScript: современные возможности языка](./images/advanced-javascript-modern-language-features.pdf) · [Свидетельство на сайте Нетологии](https://netology.ru/sharing/d373f4bdf8d4de99e564ad2f12cf692b)
+- 📅 07.2026 — 09.2026 [Продвинутый JavaScript: современные возможности языка](./images/advanced-javascript-modern-language-features.pdf)
   - Язык: `ES Modules` `ООП` `Map / Set` `RegExp` `Promises` `async/await` `Итераторы и генераторы` `ArrayBuffer` `TypeScript (основы)`
   - Инструменты: `npm` `webpack` `Babel` `ESLint` `Jest` `GitHub Actions`
 
