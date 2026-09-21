@@ -1,5 +1,5 @@
 <h1 align="center">Дмитрий Потыкалов</h1>
-<h3 align="center">Junior Frontend-разработчик | HTML, CSS, JavaScript</h3>
+<h3 align="center">Frontend-разработчик | HTML, CSS, JavaScript</h3>
 
 <div align="center">
   <a href="mailto:dmitriy.potykalov@gmail.com"><img src="https://img.shields.io/badge/Gmail-написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
