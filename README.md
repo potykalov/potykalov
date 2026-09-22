@@ -1,225 +1,132 @@
-<h1 align="center">Дмитрий Потыкалов</h1>
-<h3 align="center">Frontend-разработчик | HTML, CSS, JavaScript</h3>
+# Дмитрий Потыкалов
 
-<div align="center">
-  <a href="mailto:dmitriy.potykalov@gmail.com"><img src="https://img.shields.io/badge/Gmail-написать-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://t.me/dmitriy_potykalov"><img src="https://img.shields.io/badge/Telegram-написать-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://www.linkedin.com/in/potykalov"><img src="https://img.shields.io/badge/LinkedIn-профиль-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</div>
+**Frontend Developer | JavaScript, HTML, CSS**
 
-<br>
+Начинающий frontend-разработчик. Создаю учебные веб-приложения, браузерные игры и адаптивные страницы. Работаю с JavaScript, DOM API, REST API и инструментами frontend-разработки.
 
-Начинающий frontend-разработчик. Создаю учебные веб-приложения, браузерные игры и адаптивные страницы на HTML, CSS и JavaScript. Продолжаю обучение в Нетологии.
+Ищу первую оплачиваемую работу на позиции Junior Frontend Developer, стажировку или работу HTML/CSS-верстальщиком. Рассматриваю офисный, удалённый и гибридный форматы. Готов к релокации.
 
-Ищу первую оплачиваемую работу во frontend-разработке или HTML/CSS-вёрстке. Рассматриваю junior-позиции, оплачиваемые стажировки и проектную работу: офис, удалённо или гибрид. Готов к релокации по России и за рубеж.
+[Резюме](https://drive.google.com/open?id=1ak6nmqtLSFGO8AzNQQdPnP2R-5dQ_1Wr&usp=drive_fs) ·
+[Email](mailto:dmitriy.potykalov@gmail.com) ·
+[Telegram](https://t.me/dmitriy_potykalov) ·
+[LinkedIn](https://www.linkedin.com/in/potykalov)
 
-<div align="center">
-  <a href="#competencies">Компетенции</a> •
-  <a href="#tools">Инструменты</a> •
-  <a href="#projects">Проекты</a> •
-  <a href="#education">Обучение</a> •
-  <a href="#certificates">Сертификаты</a> •
-  <a href="#about">О себе</a> •
-  <a href="#contacts">Контакты</a>
-</div>
+## Технологии и инструменты
 
-<br>
+**Frontend:** `HTML5`, `CSS3`, `JavaScript`, `DOM API`, `адаптивная вёрстка`, `Flexbox`, `CSS Grid`, `БЭМ`.
 
-<a id="competencies"></a>
+**Работа с данными:** `REST API`, `XMLHttpRequest`, `JSON`, `localStorage`.
 
-## 📌 Ключевые компетенции
+**Инструменты:** `Git`, `GitHub`, `npm`, `Webpack`, `Babel`, `ESLint`, `Jest`, `GitHub Actions`.
 
-- **HTML и CSS:** семантическая разметка, формы, адаптивная и мобильная вёрстка, Flexbox, CSS Grid и медиазапросы; работа с макетами в Figma и Photoshop.
-- **JavaScript:** DOM, события, массивы и объекты, модули, классы, наследование и генераторы.
-- **REST API:** отправка данных форм, получение и отображение данных, обработка ответов сервера и ошибок.
-- **Состояние приложения:** localStorage, сериализация данных в JSON и восстановление состояния.
-- **Сборка и окружение:** npm, webpack, Babel, полифиллы и ESLint; Node.js для запуска готового сервера и инструментов сборки.
-- **Тестирование и автоматические проверки:** Jest, параметризованные тесты, моки, отчёты о покрытии; GitHub Actions для запуска тестов, линтера и сборки.
-- **Git и GitHub:** коммиты, ветки, слияние, pull request и разрешение конфликтов.
+**Дополнительно:** `TypeScript` — основы, `Sass` — основы, `Figma`, `Photoshop`, `Chrome DevTools`.
 
-<br>
+## Основные проекты
 
-<a id="tools"></a>
+Все проекты ниже выполнены в учебных целях.
 
-## ⚒️ Технологии и инструменты
+### 1. Retro Game — пошаговая браузерная игра
 
-### Языки и разметка
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/potykalov/retro-game/main/assets/character-selection.jpg"
+    width="400"
+    alt="Игровое поле Retro Game"
+  >
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+Браузерная игра на поле 8 × 8 с пошаговыми сражениями против компьютера, развитием персонажей и сохранением игрового прогресса.
 
-### Вёрстка и стилизация
+На основе учебного шаблона реализовал игровую логику, поведение компьютерного противника, переходы между уровнями, сохранение состояния и дополнительные элементы интерфейса.
 
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge)
-![Grid Layout](https://img.shields.io/badge/Grid_Layout-1572B6?style=for-the-badge)
-![Media Queries](https://img.shields.io/badge/Media_Queries-1572B6?style=for-the-badge)
-![БЭМ](https://img.shields.io/badge/БЭМ-000000?style=for-the-badge)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+**Технологии:** JavaScript, ООП, DOM API, localStorage, Webpack, Jest.
 
-### Сборка и качество кода
+**[Открыть игру](https://potykalov.github.io/retro-game/)** ·
+[Исходный код и документация](https://github.com/potykalov/retro-game)
 
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![webpack](https://img.shields.io/badge/webpack-1C78C0?style=for-the-badge&logo=webpack&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-876D00?style=for-the-badge&logo=babel&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### 2. Financial Management App — учёт личных финансов
 
-### Инструменты разработки
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/potykalov/financial-management-app/master/assets/main.jpg"
+    width="400"
+    alt="Интерфейс приложения для учёта финансов"
+  >
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+Учебное SPA-приложение для управления счетами, доходами, расходами и историей транзакций.
 
-### Работа с макетами
+На основе предоставленного интерфейса реализовал клиентскую JavaScript-логику: работу с формами, авторизацию, взаимодействие с серверным API и динамическое обновление финансовых данных.
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-163B63?style=for-the-badge)
+**Технологии:** JavaScript, DOM API, XMLHttpRequest, REST API, ООП.
 
-<br>
+**[Открыть приложение](https://financial-management-app-d3nz.onrender.com/)** ·
+[Исходный код и документация](https://github.com/potykalov/financial-management-app)
 
-<a id="projects"></a>
+> Демо размещено на Render. Первый запуск после периода бездействия может занять некоторое время.
 
-## 🚀 Проекты
+### 3. NOEMI — адаптивная вёрстка сайта
 
-Все проекты ниже — учебные.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/potykalov/mq-diploma/main/assets/layouts.jpg"
+    width="400"
+    alt="Адаптивная вёрстка сайта NOEMI"
+  >
+</p>
 
-### 🎮 Retro Game — пошаговая игра
+Адаптивная страница блога, свёрстанная по предоставленным дизайн-макетам для десктопа, планшета и смартфона.
 
-Пошаговая браузерная игра на поле 8×8: сражения с компьютером, развитие персонажей, бесконечные уровни и сохранение прогресса в localStorage.
+Реализовал HTML-разметку, стилизацию и адаптацию интерфейса под различные размеры экрана.
 
-На основе учебной заготовки реализовал игровую логику, сохранение и восстановление состояния, дополнил интерфейс подсветкой действий и диалоговыми окнами. Написал тесты на Jest и настроил автоматические проверки.
+**Технологии:** HTML5, CSS3, Flexbox, Media Queries.
 
-[▶️ Открыть демо](https://potykalov.github.io/retro-game/) · [💻 Код](https://github.com/potykalov/retro-game)
+**[Открыть сайт](https://potykalov.github.io/mq-diploma/)** ·
+[Исходный код и документация](https://github.com/potykalov/mq-diploma)
 
-`2026` · `учебный проект`
+### 4. Неткоин — управление внутренней валютой
 
-**Стек:** `JavaScript` `ES Modules` `ООП` `DOM API` `localStorage` `webpack` `Babel` `Jest` `GitHub Actions`
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/potykalov/netcoin-exchange/master/assets/home-page.jpg"
+    width="400"
+    alt="Личный кабинет приложения Неткоин"
+  >
+</p>
 
----
+Учебное веб-приложение для управления балансом, конвертации внутренней валюты и переводов между пользователями.
 
-### 💰 Приложение для управления финансами
+Связал предоставленные компоненты интерфейса с готовым API-клиентом, реализовал обработку пользовательских действий и обновление данных после выполнения операций.
 
-SPA для учёта личных финансов. На основе предоставленного интерфейса реализовал клиентскую логику: регистрацию и авторизацию, работу со счетами и транзакциями, формами и модальными окнами, обмен данными с серверным API.
+**Технологии:** JavaScript, REST API, callback-функции, DOM.
 
-[▶️ Открыть демо](https://financial-management-app-d3nz.onrender.com/) · [💻 Код](https://github.com/potykalov/financial-management-app)
+**[Открыть приложение](https://netcoin-exchange.onrender.com/)** ·
+[Исходный код и документация](https://github.com/potykalov/netcoin-exchange)
 
-> Демо размещено на Render. Если сервер находится в спящем режиме, первый запуск может занять некоторое время.
+> Демо размещено на Render. Первый запуск после периода бездействия может занять некоторое время.
 
-`2026` · `учебный проект` · `завершён`
+## Дополнительные проекты
 
-**Стек:** `JavaScript` `DOM API` `XMLHttpRequest` `REST API` `ООП`
+| Проект | Описание | Ссылки |
+| --- | --- | --- |
+| Крестики-нолики | Игра для двух игроков на JavaScript с обработкой ходов и определением победителя | [Демо](https://potykalov.github.io/tic-tac-toe-js/) · [Код](https://github.com/potykalov/tic-tac-toe-js) |
+| Виселица | Браузерная игра с обработкой ввода, проверкой букв и определением результата | [Демо](https://potykalov.github.io/hangmanGame/) · [Код](https://github.com/potykalov/hangmanGame) |
 
----
+## Обучение
 
-### 📱 NOEMI — адаптивная вёрстка сайта
+Прохожу обучение в Нетологии по программе
+**«Фронтенд-разработчик: расширенный курс»**.
 
-Адаптивная страница, свёрстанная по макетам для десктопных экранов, планшетов и мобильных устройств.
+Начало обучения — ноябрь 2025 года.
+Планируемое завершение — март 2027 года.
 
-[▶️ Открыть демо](https://potykalov.github.io/mq-diploma/) · [💻 Код](https://github.com/potykalov/mq-diploma)
+Изучаю frontend-разработку и применяю полученные знания в индивидуальных учебных проектах.
 
-`2026` · `учебный дипломный проект` · `завершён`
+С июня 2026 года на волонтёрской основе помогаю другим студентам Нетологии разбираться в HTML, CSS, адаптивной вёрстке и ошибках в коде.
 
-**Стек:** `HTML` `CSS` `Flexbox` `Media Queries` `Git`
+## Контакты
 
----
-
-### 🪙 Неткоин — управление внутренней валютой
-
-Учебное веб-приложение для работы с внутренней валютой. Связал готовые компоненты интерфейса с предоставленным API-клиентом: регистрация, вход, баланс, конвертация валют, переводы и избранные получатели. Подключил обновление интерфейса и сообщения об успешных действиях и ошибках.
-
-[▶️ Открыть демо](https://netcoin-exchange.onrender.com/) · [💻 Код](https://github.com/potykalov/netcoin-exchange)
-
-> Демо размещено на Render. Если сервер находится в спящем режиме, первый запуск может занять некоторое время.
-
-`2026` · `учебный дипломный проект` · `завершён`
-
-**Стек:** `JavaScript` `REST API` `Git`
-
----
-
-### ❌⭕ Игра «Крестики-нолики»
-
-Классическая игра «Крестики-нолики» для двух игроков на одном устройстве. Реализовал игровую логику на JavaScript: обработку ходов, переключение игроков и определение победителя по горизонтали, вертикали и диагонали.
-
-[▶️ Открыть демо](https://potykalov.github.io/tic-tac-toe-js/) · [💻 Код](https://github.com/potykalov/tic-tac-toe-js)
-
-`2026` · `учебный дипломный проект` · `завершён`
-
-**Стек:** `JavaScript` `DOM API` `Git`
-
----
-
-### 🪢 Игра «Виселица»
-
-Браузерная игра «Виселица» на JavaScript. На основе предоставленного интерфейса реализовал логику случайного выбора слова, обработки ввода с клавиатуры, проверки угаданных букв, учёта ошибок и определения победы.
-
-[▶️ Открыть демо](https://potykalov.github.io/hangmanGame/) · [💻 Код](https://github.com/potykalov/hangmanGame)
-
-`2026` · `учебный воркшоп` · `завершён`
-
-**Стек:** `JavaScript` `DOM API` `Git`
-
-<br>
-
-<a id="education"></a>
-
-## 🧠 Обучение
-
-Прохожу обучение на курсе  
-**«Фронтенд-разработчик: расширенный курс»** в онлайн-школе Нетология.  
-📅 Начало — 03.11.2025, планируемое завершение — 12.03.2027.
-
-<br>
-
-<a id="certificates"></a>
-
-## 🏆 Сертификаты Нетологии
-
-- 📅 07.2026 — 09.2026 [Продвинутый JavaScript: современные возможности языка](./images/advanced-javascript-modern-language-features.pdf)
-  - Язык: `ES Modules` `ООП` `Map / Set` `RegExp` `Promises` `async/await` `Итераторы и генераторы` `ArrayBuffer` `TypeScript (основы)`
-  - Инструменты: `npm` `webpack` `Babel` `ESLint` `Jest` `GitHub Actions`
-
-- 📅 06.2026 — 07.2026 [Основы JavaScript в браузере](./images/javascript-basics-in-the-browser.pdf)  
-  `JavaScript` `DOM API` `Events` `HTML Forms` `XMLHttpRequest` `localStorage` `JSON` `CORS`
-
-- 📅 04.2026 — 05.2026 [Основы JavaScript](./images/javascript-basics-certificate.pdf)  
-  `JavaScript`
-
-- 📅 03.2026 — 04.2026 [Git — система контроля версий](./images/git-version-control.pdf)  
-  `Git` `GitHub`
-
-- 📅 02.2026 — 03.2026 [Основы программирования](./images/programming-basics.pdf)  
-  `JavaScript`
-
-- 📅 12.2025 — 02.2026 [Адаптивная и мобильная вёрстка](./images/responsive-web-design.pdf)  
-  `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
-
-- 📅 11.2025 — 12.2025 [HTML-вёрстка: с нуля до первого макета](./images/html-css-layout-certificate.pdf)  
-  `HTML` `CSS` `Flexbox` `Grid Layout` `БЭМ`
-
-<br>
-
-<a id="about"></a>
-
-## 👨‍💻 О себе
-
-Сейчас работаю пожарным и готовлюсь к переходу в разработку. Привык соблюдать регламенты, согласовывать действия с командой и отвечать за результат.
-
-С июня 2026 года неформально помогаю другим студентам Нетологии разбираться в HTML, CSS, адаптивной вёрстке и ошибках в коде.
-
-Во frontend мне интересны интерфейсы и клиентская логика. Могу читать документацию и вести переписку на английском.
-
-<br>
-
-<a id="contacts"></a>
-
-## 📇 Контакты
-
-- 📧 **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
-- 📄 **Резюме:** [Google Drive](https://drive.google.com/open?id=1ak6nmqtLSFGO8AzNQQdPnP2R-5dQ_1Wr&usp=drive_fs)
-- ✈️ **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
-- 💼 **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
+- **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
+- **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
+- **LinkedIn:** [in/potykalov](https://www.linkedin.com/in/potykalov)
+- **Резюме:** [Открыть PDF](https://drive.google.com/open?id=1ak6nmqtLSFGO8AzNQQdPnP2R-5dQ_1Wr&usp=drive_fs)
