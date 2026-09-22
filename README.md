@@ -7,9 +7,9 @@
 Ищу первую работу на позиции Junior Frontend Developer, оплачиваемую стажировку или работу HTML/CSS-верстальщиком. Рассматриваю офисный, удалённый и гибридный форматы. Готов к релокации.
 
 [Резюме](https://drive.google.com/open?id=1-FthWK2FrCPop39JiLnkouS1WSrIpZer&usp=drive_fs) ·
-[Email](mailto:dmitriy.potykalov@gmail.com) ·
-[Telegram](https://t.me/dmitriy_potykalov) ·
-[LinkedIn](https://www.linkedin.com/in/potykalov)
+[Email](mailto:dmitriy.potykalov@gmail.com) <!-- ·
+ [Telegram](https://t.me/dmitriy_potykalov)  ·
+[LinkedIn](https://www.linkedin.com/in/potykalov) -->
 
 ## Технологии и инструменты
 
