@@ -19,7 +19,7 @@
 
 **Инструменты:** Git, GitHub, npm, Webpack, Babel, ESLint, Jest, GitHub Actions.
 
-**Дополнительно:**  Sass — основы, Figma, Photoshop, Chrome DevTools.
+**Дополнительно:** Sass — основы, Figma, Photoshop, Chrome DevTools.
 
 ## Основные проекты
 
@@ -111,7 +111,6 @@ SPA-приложение для управления счетами, доход�
 | --- | --- | --- |
 | Крестики-нолики | Игра для двух игроков на JavaScript с обработкой ходов и определением победителя | [Демо](https://potykalov.github.io/tic-tac-toe-js/) · [Код](https://github.com/potykalov/tic-tac-toe-js) |
 | Виселица | Браузерная игра с обработкой ввода, проверкой букв и определением результата | [Демо](https://potykalov.github.io/hangmanGame/) · [Код](https://github.com/potykalov/hangmanGame) |
-
 
 ## Обучение
 
