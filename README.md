@@ -6,10 +6,7 @@
 
 Ищу первую работу на позиции Junior Frontend Developer, оплачиваемую стажировку или работу HTML/CSS-верстальщиком. Рассматриваю офисный, удалённый и гибридный форматы. Готов к релокации.
 
-[Резюме](https://drive.google.com/open?id=1-FthWK2FrCPop39JiLnkouS1WSrIpZer&usp=drive_fs) ·
-[Email](mailto:dmitriy.potykalov@gmail.com) <!-- ·
- [Telegram](https://t.me/dmitriy_potykalov)  ·
-[LinkedIn](https://www.linkedin.com/in/potykalov) -->
+[Резюме](https://drive.google.com/open?id=1-FthWK2FrCPop39JiLnkouS1WSrIpZer&usp=drive_fs) · [Контакты](#контакты)
 
 ## Технологии и инструменты
 
@@ -125,3 +122,11 @@ SPA-приложение для управления счетами, доход�
 Начало обучения — ноябрь 2025 года. Планируемое завершение — март 2027 года.
 
 С июня 2026 года на волонтёрской основе помогаю другим студентам Нетологии разбираться в HTML, CSS, адаптивной вёрстке и ошибках в коде.
+
+## Контакты
+
+Открыт к предложениям о работе и оплачиваемой стажировке в области Frontend-разработки и HTML/CSS-вёрстки.
+
+- **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
+- **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
+- **LinkedIn:** [potykalov](https://www.linkedin.com/in/potykalov)
