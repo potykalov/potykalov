@@ -34,8 +34,6 @@
 
 **Работа с данными:** REST API, XMLHttpRequest, JSON, localStorage.
 
-**Инструменты:** Git, npm, Webpack, Babel, ESLint, Jest, GitHub Actions.
-
 <br>
 
 **Проекты:** [Retro Game](#retro-game--пошаговая-браузерная-игра) · [Financial Management App](#financial-management-app--учёт-личных-финансов) · [NOEMI](#noemi--адаптивная-вёрстка-сайта) · [Неткоин](#неткоин--управление-внутренней-валютой) · [Крестики-нолики](#дополнительные-проекты) · [Виселица](#дополнительные-проекты)
