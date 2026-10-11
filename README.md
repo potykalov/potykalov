@@ -143,6 +143,21 @@ SPA-приложение для управления счетами, доход�
 
 Открыт к предложениям о работе и оплачиваемой стажировке в области Frontend-разработки и HTML/CSS-вёрстки.
 
-- **Email:** [dmitriy.potykalov@gmail.com](mailto:dmitriy.potykalov@gmail.com)
-- **Telegram:** [@dmitriy_potykalov](https://t.me/dmitriy_potykalov)
-- **LinkedIn:** [potykalov](https://www.linkedin.com/in/potykalov)
+<div align="center">
+  <a href="mailto:dmitriy.potykalov@gmail.com"><img
+      align="middle"
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/gmail/default.svg"
+      alt="GMail"
+      width="32"
+    /></a>&emsp;<a href="https://t.me/dmitriy_potykalov"><img
+      align="middle"                                               
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/telegram/default.svg"
+      alt="Telegram"
+      width="32"
+    /></a>&emsp;<a href="https://www.linkedin.com/in/potykalov"><img
+      align="middle"                                               
+      src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/linkedin/default.svg"
+      alt="LinkedIn"
+      width="32"
+    /></a>
+</div>
