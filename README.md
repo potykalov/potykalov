@@ -14,16 +14,25 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+<br>
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-001E36?style=flat-square)
+
 
 **Frontend:** HTML5, CSS3, JavaScript, TypeScript, DOM API, адаптивная вёрстка, Flexbox, CSS Grid, БЭМ.
 
 **Работа с данными:** REST API, XMLHttpRequest, JSON, localStorage.
 
-**Инструменты:** Git, GitHub, npm, Webpack, Babel, ESLint, Jest, GitHub Actions.
-
-**Дополнительно:** Sass — основы, Figma, Photoshop, Chrome DevTools.
+**Инструменты:** Git, npm, Webpack, Babel, ESLint, Jest, GitHub Actions.
 
 <br>
 
