@@ -139,6 +139,8 @@ SPA-приложение для управления счетами, доход�
 
 ## Контакты
 
+<img align="right" width="150" height="150" src="./assets/octocat" alt="Octocat - Dmitriy"/>
+
 Открыт к предложениям о работе и оплачиваемой стажировке в области Frontend-разработки и HTML/CSS-вёрстки.
 
 <div align="center">
