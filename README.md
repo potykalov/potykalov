@@ -27,11 +27,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-001E36?style=flat-square)
 
-
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, DOM API, адаптивная вёрстка, Flexbox, CSS Grid, БЭМ.
-
-**Работа с данными:** REST API, XMLHttpRequest, JSON, localStorage.
-
 <br>
 
 **Проекты:** [Retro Game](#retro-game--пошаговая-браузерная-игра) · [Financial Management App](#financial-management-app--учёт-личных-финансов) · [NOEMI](#noemi--адаптивная-вёрстка-сайта) · [Неткоин](#неткоин--управление-внутренней-валютой) · [Крестики-нолики](#дополнительные-проекты) · [Виселица](#дополнительные-проекты)
