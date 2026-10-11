@@ -1,10 +1,11 @@
-# Дмитрий Потыкалов
+# Привет, я Дмитрий! 👋
 
-**Junior Frontend Developer | JavaScript, TypeScript, HTML, CSS**
+**Фронтенд-разработчик | JavaScript, TypeScript, HTML, CSS**
 
 Разрабатываю учебные веб-приложения, браузерные игры и адаптивные сайты. Работаю с JavaScript, TypeScript, DOM API и REST API.
 
-Ищу первую работу на позиции Junior Frontend Developer, оплачиваемую стажировку или работу HTML/CSS-верстальщиком. Рассматриваю офисный, удалённый и гибридный форматы. Готов к релокации.
+Ищу свою первую работу в качестве **фронтенд-разработчика**.
+Рассматриваю офисный, удалённый и гибридный форматы. Готов к релокации.
 
 [Резюме](https://drive.google.com/open?id=1-FthWK2FrCPop39JiLnkouS1WSrIpZer&usp=drive_fs) · [Контакты](#контакты)
 
