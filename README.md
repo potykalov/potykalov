@@ -137,9 +137,7 @@ SPA-приложение для управления счетами, доход�
 
 С июня 2026 года на волонтёрской основе помогаю другим студентам Нетологии разбираться в HTML, CSS, адаптивной вёрстке и ошибках в коде.
 
-## Контакты
-
-<img align="right" width="150" height="150" src="./assets/octocat.gif" alt="Octocat - Dmitriy"/>
+## Контакты <img align="right" width="150" height="150" src="./assets/octocat.gif" alt="Octocat - Dmitriy"/>
 
 Открыт к предложениям о работе и оплачиваемой стажировке в области Frontend-разработки и HTML/CSS-вёрстки.
 
