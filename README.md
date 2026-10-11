@@ -6,7 +6,7 @@
 <br>
 Рассматриваю офисный, удалённый и гибридный форматы. Готов к релокации.
 
-[Резюме](https://drive.google.com/open?id=1-FthWK2FrCPop39JiLnkouS1WSrIpZer&usp=drive_fs) · [Контакты](#контакты)
+[Резюме](https://drive.google.com/open?id=1-FthWK2FrCPop39JiLnkouS1WSrIpZer&usp=drive_fs) · [Контакты](#contacts)
 
 ## Технологии и инструменты
 
@@ -131,6 +131,8 @@ SPA-приложение для управления счетами, доход�
 Начало обучения — ноябрь 2025 года. Планируемое завершение — март 2027 года.
 
 С июня 2026 года на волонтёрской основе помогаю другим студентам Нетологии разбираться в HTML, CSS, адаптивной вёрстке и ошибках в коде.
+
+<a id="contacts"></a>
 
 ## Контакты <img align="right" width="150" height="150" src="./assets/octocat.gif" alt="Octocat - Dmitriy"/>
 
